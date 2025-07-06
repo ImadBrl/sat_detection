@@ -1,4 +1,5 @@
-Description du projet
+Description du projet :
+
 Ce projet porte sur la détection automatique d’objets à partir d’une image satellite de haute résolution (40×40 km) a 4 bandes. Les trois premières correspondent aux composantes RGB et la quatrième bande contient la matrice des coordonnées spatiales réelles. Le pipeline développé réalise les étapes suivantes :
 
 Découpage de l’image :
